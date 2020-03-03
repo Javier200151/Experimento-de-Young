@@ -1,5 +1,6 @@
 # Experimento de la doble rendija de Young
 En este repositorio encontramos una simulacion realizada en python del funcionamiento de la doble rendija, encontraremos dos archivos .py. El primer archivo es la libreria, de nombre "cnyt", y la segunda es el archivo "simulacion" que correra una prueba de con 4 blancos y 2 rendijas, tal como el experimento de Young.
+En la documentacion fotografica [[https://github.com/Javier200151/Experimento-de-Young/tree/master/Documentacion%20Fotografica]] puede encontrar fotos de la maqueta de nuestro experimento
 
 ## Getting Started
 Para el funcionamiento debe descargar el archivo cnyt y simulacion, se deben poner ambos archivos en la misma carpeta y para verificar la simulacion se deben correr este archivo.
