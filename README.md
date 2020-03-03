@@ -6,7 +6,7 @@ Para el funcionamiento debe descargar el archivo cnyt y simulacion, se deben pon
 De querer realizar la simulacion manualmente se debe correr el archivo cnyt y colocar como entrada la llamada de la funcion ***expRendijas(proba,blancos,rendijas)*** , donde los parametros *proba* es una lista de las probabilidades, *blancos* el numero de blancos y *rendijas* el numero de rendijas.
 
 ## Prerequisites
-Se uso el lenguaje python, se escribio en el editor de IDLE, cualquier editor de python (.py) sera suficiente para correr la libreria
+Se usó el lenguaje python, se escribio en el editor de IDLE, cualquier editor de python (.py) sera suficiente para correr la libreria
 
 ## Built With
 IDLE - Python 3.8.1 64-Bit
